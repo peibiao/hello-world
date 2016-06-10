@@ -16,7 +16,7 @@ import com.example.yupeibiao.message.R;
 
 /**
  * Created by yupeibiao on 16/4/8.
- * 设置界面
+ * 设置界面2
  */
 public class GroupActivity extends Activity implements AdapterView.OnItemClickListener{
     private ListView listView;
